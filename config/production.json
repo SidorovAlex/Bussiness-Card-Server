@@ -1,0 +1,10 @@
+{
+  "NODE_ENV": "production",
+  "PORT": 9191,
+  "HOST": null,
+  "TOKEN_GENERATOR": "jwt",
+  "DB_NAME": "arrog13",
+  "DB_PASSWORD": "4111",
+  "LOGGER": "morgan",
+  "DB": "MONGODB"
+}
